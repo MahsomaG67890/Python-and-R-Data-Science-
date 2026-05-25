@@ -1,6 +1,8 @@
-a = int(input("Enter a number: "))
-b = int(input("Enter b number: "))
-c = a + b# Calculate the sum of a and b
-c=c+c
-print("The sum of a and b is:", c)
-#yesss
+x=10
+y=3.12
+name="Python"
+status=True
+print(type(x))
+print(type(y))
+print(type(name))
+print(type(status))
